@@ -1,3 +1,3 @@
 # Django_projects
 
-This repository contains a list of Django projects.
+This repository contains an application developed to implement library management system.
